@@ -1,0 +1,1 @@
+Detailed change log: http://code.google.com/p/orion-viewer/source/browse/orion-viewer/ChangeLog
